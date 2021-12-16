@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "562043390761",
+    "project_id": "compass-d485f",
+    "storage_bucket": "compass-d485f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562043390761:android:dfa910e5c71881aedcc538",
+        "android_client_info": {
+          "package_name": "com.codesingers.compass.compass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562043390761-o1crm6jiabof7fovurlietfui7imssh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbI4e6zdKuC-TQ4wCBHum3eIKsf2N8vr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562043390761-o1crm6jiabof7fovurlietfui7imssh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
