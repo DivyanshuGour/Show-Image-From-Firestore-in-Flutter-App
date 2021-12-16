@@ -1,6 +1,9 @@
 # compass
 
-Compass.
+Flutter Firestore App.
+
+Show the images uploaded on firestore into your flutter app.
+
 
 ## Getting Started
 
