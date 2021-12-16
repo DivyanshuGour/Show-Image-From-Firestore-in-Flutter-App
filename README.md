@@ -1,4 +1,3 @@
-# compass
 
 Flutter Firestore App.
 
